@@ -10,7 +10,6 @@ Core, Discord token yönetimi ve sistem takibi için geliştirilmiş modern aray
 
 ## 🛠️ Gelecek Güncelleme (v1.2) Planları
 Bir sonraki sürümde şu kritik iyileştirmeler üzerinde çalışıyoruz:
-* **Tek Seferlik Token:** Token sadece bir kere girilecek ve sistem tarafından hatırlanacak.
 * **F11 Görüntü Düzenlemesi:** Arayüzdeki F11 (tam ekran/görünüm) ile ilgili görsel hatalar ve kaymalar tamamen düzeltilecek.
 * **Admin Yetki Entegrasyonu:** `token.core` erişim hatasını bitirmek için kurulum dosyasına otomatik yönetici izni eklenecek.
 * **Arkada Açık Kalma:** Uygulama kapatıldığında arka planda (system tray) çalışmaya devam edecek.
