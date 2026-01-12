@@ -1,18 +1,4 @@
-# --- Core Asistan v1.0 Gereksinimleri ---
-
-# Sistem bilgilerini (CPU, RAM) çekmek için
-psutil
-
-# Arayüz ve görsel tasarım için (Kullandığın kütüphaneye göre değişebilir, 
-# genelde standart kütüphaneler kullanılır ama harici bir paket varsa buraya eklenir)
-
-# HTTP istekleri ve API iletişimi için
-requests
-
-# Discord entegrasyonu ve bot fonksiyonları için
+customtkinter
 discord.py
-
-# Sesli komut özellikleri için (Eğer aktifse)
-SpeechRecognition
-pyttsx3
-pyaudio
+psutil
+requests
